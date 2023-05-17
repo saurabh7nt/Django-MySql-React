@@ -1,0 +1,33 @@
+# Byte-compiled / optimized Python files
+*.pyc
+__pycache__/
+
+# Django related files
+*.log
+*.pot
+*.pyo
+*.swp
+.local/
+db.sqlite3
+media/
+
+# Static files
+/static/
+
+# Environment variables
+.env
+
+# Development dependencies and virtual environment
+venv/
+env/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Dependency management
+pip-lock.txt
+
+# System files
+.DS_Store
+Thumbs.db
